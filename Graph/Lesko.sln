@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesko", "Lesko\Lesko.csproj", "{CAEA8BDF-69F8-4D2D-B63C-022B0CAD787E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAEA8BDF-69F8-4D2D-B63C-022B0CAD787E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEA8BDF-69F8-4D2D-B63C-022B0CAD787E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEA8BDF-69F8-4D2D-B63C-022B0CAD787E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEA8BDF-69F8-4D2D-B63C-022B0CAD787E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76AEEAC5-CA8B-46C0-B1BF-DC8120691CF5}
+	EndGlobalSection
+EndGlobal
